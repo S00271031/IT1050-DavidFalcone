@@ -38,7 +38,7 @@ namespace Lab2
           * e) A class sets up the properties and methods that will be used in the class.
           *    An object is an instance of the class.
           *    You can technically have an unlimited number of instances of a class as long as you have free memory.
-
+          */
       }
    }
 }
