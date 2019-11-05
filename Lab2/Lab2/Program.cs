@@ -37,8 +37,7 @@ namespace Lab2
           *    To assign a value to an instance valriable, we use a method called a set accessor.
           * e) A class sets up the properties and methods that will be used in the class.
           *    An object is an instance of the class.
-          *    You can technically have an unlimited number of instances of a class as long as you have free memory.
-          */
+          *    You can technically have an unlimited number of instances of a class as long as you have free memory.*/
       }
    }
 }
