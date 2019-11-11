@@ -94,7 +94,6 @@ namespace Lab4
 
          Console.ReadLine();   // added to check output
 
-
       }
    }
 }
